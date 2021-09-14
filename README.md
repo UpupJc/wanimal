@@ -1,0 +1,4 @@
+# wanimal
+main
+{
+hello word}
